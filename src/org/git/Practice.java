@@ -1,14 +1,14 @@
 package org.git;
 
 public class Practice {
-	int a=10;
-	int b=20;
+	int a=1000;
+	int b=2098;
 	int c;
 	String d = "testng";
 	private void add() {
 		c=a+b;
 		System.out.println(c);
-		System.out.println("selenium.......................");
+		System.out.println("python");
 	}
 	
 	public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class Practice {
 		
 		for (int i = 0; i < 5; i++) {
 			System.out.println("yes");
-			System.out.println("mathan >>>>>>>>>>>>>>>>>>>>>>>>");
+			System.out.println("mathan");
 		}
 		
 		Practice a = new Practice();
